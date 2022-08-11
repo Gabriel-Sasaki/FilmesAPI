@@ -5,7 +5,7 @@ Esse código foi desenvolvido durante o curso <b>API Rest com .NET 5: operaçõe
 Pacotes NuGets utilizados:<br>
  > Entity Framework Core (v5.0.5)<br>
   Entity Framework Core Tools (v5.0.5)<br>
-  MySQL Entity Framework (v5.0.8)<br>
+  MySQL Entity Framework (v5.0.3)<br>
   AutoMapper Dependency Injection (v8.1.1)<br>
 
 Link do Curso:
